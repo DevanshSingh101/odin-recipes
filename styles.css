@@ -1,0 +1,19 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color :burlywood;
+}
+
+img {
+    width : 20% ;
+    height: auto;
+}
+
+h1 + ol > li{
+    font-size: larger;
+    text-decoration: none;
+    text-decoration-color: black;
+    color: black;   
+}
